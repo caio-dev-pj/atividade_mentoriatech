@@ -52,7 +52,7 @@ Para compilar e executar o projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/giovanna-pj/atividade_mentoriatech.git
+    git clone https://github.com/caio-dev-pj/atividade_mentoriatech.git
     cd atividade_mentoriatech
     ```
 
